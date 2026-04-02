@@ -1,0 +1,4 @@
+expenses.csv
+__pycache__/
+*.pyc
+.env
